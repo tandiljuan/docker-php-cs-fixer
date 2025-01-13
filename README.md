@@ -11,7 +11,7 @@ Build the image
 docker build \
     --file Dockerfile \
     --tag tandiljuan/php-cs-fixer:latest \
-    --tag tandiljuan/php-cs-fixer:2.14.0 \
+    --tag tandiljuan/php-cs-fixer:2.15.0 \
     .
 ```
 
